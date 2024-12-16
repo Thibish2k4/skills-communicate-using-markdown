@@ -6,4 +6,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Made some Changes in header and included an image
+``` javascript
+var myVar = "Hello, world!";
+```
+
+Made some Changes in header, included an image and a code snippet
