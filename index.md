@@ -9,5 +9,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
-Made some Changes in header, included an image and a code snippet
+Made some Changes in header, included an image, a code snippet some markdown ones
